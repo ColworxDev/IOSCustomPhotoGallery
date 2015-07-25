@@ -6,7 +6,14 @@ but this library is much complex can do many thing but if i had to customize the
 so i have created a very basic simpler version of MHVideoPhotoGallery that can be easily customizable view 
 because i have create photogallery view from nib. so it can be easily customized.
 
+
+this project uses sdwebimage sdk
+
+plus it has additional feature --> while loading images it shows the progress of image downloaded :D in a circular progress view
+
 hoping this project would help others....
+
+
 
 
 here is sample line of code to present this gallery view
@@ -30,6 +37,9 @@ here is sample line of code to present this gallery view
 
 
 ![alt tag](/dashboard.png )
+
+
+![alt tag](/screen1progress.png )
 
 ![alt tag](/screen1.png )
 
