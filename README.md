@@ -22,20 +22,14 @@ here is sample line of code to present this gallery view
         
         [arrImages addObject:item];
     }
-    
     PhotoPageViewController *vc =[[PhotoPageViewController alloc]initWithTransitionStyle:UIPageViewControllerTransitionStyleScroll navigationOrientation:UIPageViewControllerNavigationOrientationHorizontal options:nil];
     vc.galleryItems = arrImages;
-    vc.showpaginationlabel = YES;
-    vc.photoControllerDelegate = self;
-    
-
     [self presentViewController:vc animated:YES completion:nil];
     
     <--
 
--->
+
 ![alt tag](/dashboard.png )
-<--
 
 ![alt tag](/screen1.png )
 
