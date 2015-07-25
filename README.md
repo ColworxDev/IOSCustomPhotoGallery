@@ -11,7 +11,7 @@ hoping this project would help others....
 
 here is sample line of code to present this gallery view
 
-->
+-->
 	NSMutableArray *arrImages = [[NSMutableArray alloc]init];
     
     for (NSDictionary *dict in images) {
