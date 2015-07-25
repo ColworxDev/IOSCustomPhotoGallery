@@ -1,9 +1,9 @@
 # IOSCustomPhotoGallery
 
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](/dashboard.png)
 
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](/screen1.png)
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](/screen2.png)
